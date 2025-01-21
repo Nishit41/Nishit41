@@ -38,8 +38,10 @@ A fun and interactive web application showcasing dynamic DOM manipulation and ev
 
 ## 📈 GitHub Stats
 ![Nishit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishit41&show_icons=true&theme=radical)
-
 ---
+
+## 🎯 Competitive Programming
+- **LeetCode**: [View Profile](https://leetcode.com/u/69X4G5bXGw/)
 
 ## 📫 Let's Connect
 - 🌐 **LinkedIn**: [Nishit Ranjan Mahato](https://www.linkedin.com/in/nishit-ranjan/)  
