@@ -1,6 +1,7 @@
 # Hi there, I'm Nishit Ranjan Mahato! 👋
 
 I'm a passionate **Frontend Developer** specializing in **React**, **JavaScript**, and **TypeScript**. I love building efficient, user-friendly web applications and constantly exploring new technologies to expand my skill set.
+Learning MERN Stack
 
 ---
 
