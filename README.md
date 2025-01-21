@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&width=500&lines=Hi+there%2C+I'm+Nishit+Ranjan+Mahato!+%F0%9F%91%8B;Frontend+Developer+%7C+React+Enthusiast;Lifelong+Learner+%7C+Football+Fan+%E2%9A%BD" alt="Typing SVG" />
+<p align="start">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Nishit+Ranjan+Mahato!;Frontend+Developer+|+React+Enthusiast;Lifelong+Learner+|+Football+Fan" alt="Typing SVG" />
 </p>
 
 I'm a passionate **Frontend Developer** specializing in **React**, **JavaScript**, and **TypeScript**. I love building efficient, user-friendly web applications and constantly exploring new technologies to expand my skill set.
