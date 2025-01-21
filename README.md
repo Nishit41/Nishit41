@@ -1,9 +1,14 @@
 # Hi there, I'm Nishit Ranjan Mahato! 👋
 
 I'm a passionate **Frontend Developer** specializing in **React**, **JavaScript**, and **TypeScript**. I love building efficient, user-friendly web applications and constantly exploring new technologies to expand my skill set.
-Learning MERN Stack
 
 ---
+## 📚 Currently Learning
+I’m actively learning the **MERN Stack** (MongoDB, Express.js, React, Node.js) to build full-stack web applications.  
+**Focus Areas**:
+- Backend development with **Node.js** and **Express.js**.
+- Working with **MongoDB** for database operations.
+- Integrating frontend and backend for seamless user experiences.
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, TypeScript  
@@ -25,13 +30,6 @@ A movie app built with **React**, **TailwindCSS**, **Firebase**, and **Redux**, 
 - Authentication
 - Form validation
 - State management
-
-### [CRWN-CLOTHING-APP](https://github.com/Nishit41/CRWN-Clothing)
-An e-commerce application similar to Shopify, using **React**, **Redux**, **GraphQL**, and **Stripe**.  
-**Tech Stack**:
-- React Hooks, React Suspense, React Router
-- Context API, Redux-Saga
-- Firebase Integration
 
 ### [Bubbles-App](https://github.com/Nishit41/Bubbles-App)
 A fun and interactive web application showcasing dynamic DOM manipulation and event handling using **JavaScript**, **HTML**, and **CSS**.
