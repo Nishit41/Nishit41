@@ -38,7 +38,7 @@ A fun and interactive web application showcasing dynamic DOM manipulation and ev
 
 
 ## 📝 Hashnode Articles
-I write about **Frontend Development**, **React**, and **JavaScript** on my [Hashnode Blog](https://js-n.hashnode.dev/). Check out my latest articles to stay updated on my learning journey.
+I write about **Frontend Development**, **React**, and **JavaScript** on my [Hashnode Blog](https://js-n.hashnode.dev/).
 
 ## 📫 Let's Connect
 - 🌐 **LinkedIn**: [Nishit Ranjan Mahato](https://www.linkedin.com/in/nishit-ranjan/)  
