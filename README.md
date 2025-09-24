@@ -36,14 +36,9 @@ A movie app built with **React**, **TailwindCSS**, **Firebase**, and **Redux**, 
 ### [Bubbles-App](https://github.com/Nishit41/Bubbles-App)
 A fun and interactive web application showcasing dynamic DOM manipulation and event handling using **JavaScript**, **HTML**, and **CSS**.
 
----
 
-## 📈 GitHub Stats
-![Nishit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishit41&show_icons=true&theme=radical)
----
-
-## 🎯 Competitive Programming
-- **LeetCode**: [View Profile](https://leetcode.com/u/69X4G5bXGw/)
+## 📝 Hashnode Articles
+I write about **Frontend Development**, **React**, and **JavaScript** on my [Hashnode Blog](https://js-n.hashnode.dev/). Check out my latest articles to stay updated on my learning journey.
 
 ## 📫 Let's Connect
 - 🌐 **LinkedIn**: [Nishit Ranjan Mahato](https://www.linkedin.com/in/nishit-ranjan/)  
